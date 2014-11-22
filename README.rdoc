@@ -24,4 +24,4 @@ Design basis:
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
 
-See the app [uploaded to heroku!](http://ytandpaypalembedded.herokuapp.com/)
+See the app [uploaded to heroku](http://ytandpaypalembedded.herokuapp.com/).
